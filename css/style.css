@@ -1,0 +1,1248 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+@font-face {
+  font-family: "Noto Serif";
+  src: url(../assets/fonts/NotoSerif-Regular.ttf);
+  font-family: "inter";
+  src: url(../assets/fonts/Inter-Bold.ttf);
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+.black {
+  height: 40px;
+  background-color: #07000d;
+}
+
+.free {
+  font-size: 14px;
+  color: #fdfaff;
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Noto Serif";
+}
+
+.search {
+  height: 70px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  padding-top: 1.5%;
+}
+
+.location {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 10px;
+  margin-left: 9%;
+}
+
+.jewelryh1 {
+  margin-left: 47%;
+  margin-top: -1.5%;
+  font-family: "inter";
+}
+
+.login {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 70.5%;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-top: -30px;
+}
+
+.text {
+  border: 1px solid #07000d;
+  border-radius: 90px;
+  width: 53%;
+  height: 34px;
+}
+
+.locationicon {
+  width: 21px;
+  height: 20px;
+}
+.phoneicon {
+  width: 21px;
+  height: 20px;
+}
+.loginicon {
+  width: 21px;
+  height: 20px;
+}
+.hearticon {
+  width: 21px;
+  height: 20px;
+  margin-left: 1%;
+}
+.carticon {
+  width: 21px;
+  height: 20px;
+  margin-left: 1%;
+}
+
+.fa-sharp {
+  position: absolute;
+  margin-left: 13%;
+}
+
+.nav {
+  height: 70px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+}
+
+.sarchevi {
+  font-family: "inter";
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 45px;
+}
+
+li {
+  color: #07000d;
+  font-size: 16px;
+}
+
+.li1 {
+  color: #ac4dff;
+}
+
+.gogo {
+  display: block;
+  margin: 0px auto;
+}
+
+.journey {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-size: 30px;
+  color: #07000d;
+  margin-left: 13.1%;
+  margin-top: -18%;
+}
+
+.discover {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-size: 22px;
+  color: #07000d;
+  margin-left: 13.3%;
+  margin-top: -15%;
+}
+
+.purple {
+  position: absolute;
+  background-color: #a033ff;
+  width: 186px;
+  height: 42px;
+  border-radius: 5px;
+  margin-left: 13.3%;
+  margin-top: -12%;
+}
+
+.collection {
+  font-family: "Noto Serif";
+  font-size: 16px;
+  color: #fdfaff;
+  margin-left: 41px;
+  margin-top: 12px;
+}
+
+.shape {
+  font-size: 30px;
+  color: #07000d;
+  font-family: "Noto Serif";
+  margin-top: 5%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.rings {
+  margin-top: 3%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
+}
+
+.ringnames {
+  margin-top: 3%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 21%;
+  margin-left: 8.7%;
+}
+
+.oval {
+  margin-left: -0.2%;
+  font-family: "Noto Serif";
+}
+
+.brilliant {
+  margin-left: 2.6%;
+  font-family: "Noto Serif";
+}
+
+.hands {
+  margin-top: 5%;
+  margin-left: 9%;
+}
+
+.pink {
+  width: 50%;
+  height: 282px;
+  color: #f9f2ff;
+  background: #f9f2ff;
+  -webkit-box-shadow: 0px 0px 30px 2px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 30px 2px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  position: absolute;
+  margin-top: -32%;
+  margin-left: 45%;
+}
+
+.purple2 {
+  position: absolute;
+  background-color: #a033ff;
+  width: 186px;
+  height: 42px;
+  border-radius: 5px;
+  margin-left: 40px;
+  margin-top: 170px;
+}
+
+.about1 {
+  font-size: 30px;
+  color: #07000d;
+  position: absolute;
+  margin-top: 7%;
+  margin-left: 6.5%;
+  font-family: "Noto Serif";
+}
+
+.about2 {
+  font-size: 16px;
+  color: #07000d;
+  position: absolute;
+  margin-top: 16%;
+  margin-left: 6.5%;
+  font-family: "Noto Serif";
+  width: 440px;
+  height: 44px;
+}
+
+.sellers {
+  font-family: "Noto Serif";
+  font-size: 30px;
+  color: #07000d;
+  margin-top: 5%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.bestsellers {
+  margin-top: 3%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
+}
+
+.photoframe1 {
+  width: 220px;
+  height: 122px;
+  background-color: #ffffff;
+  margin-top: -4px;
+}
+
+.photoframe2 {
+  width: 220px;
+  height: 122px;
+  background-color: #ffffff;
+  margin-top: -4px;
+}
+
+.photoframe3 {
+  width: 220px;
+  height: 122px;
+  background-color: #ffffff;
+  margin-top: -4px;
+}
+
+.photoframe4 {
+  width: 220px;
+  height: 122px;
+  background-color: #ffffff;
+  margin-top: -4px;
+}
+
+.frameh5 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+.fifty {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.line {
+  background-color: #07000d;
+  border: 1px solid #0e001a;
+  margin-top: 90px;
+}
+
+.inspired {
+  font-family: "Noto Serif";
+  font-size: 30px;
+  color: #07000d;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.latest {
+  font-family: "Noto Serif";
+  font-size: 14px;
+  color: #07000d;
+  margin-top: 6px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.lastphotos {
+  padding-top: 4%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.footerdiv {
+  margin-top: -4px;
+  height: 300px;
+  background-color: #29004d;
+}
+
+.footerlogo {
+  font-size: 30px;
+  color: #fdfaff;
+  padding-top: 30px;
+}
+
+.footerp {
+  font-size: 14px;
+  color: #fdfaff;
+  font-family: "Noto Serif";
+  font-style: normal;
+  line-height: 21px;
+  width: 369px;
+  height: 63px;
+  padding-top: 10px;
+}
+
+.emailsearch {
+  background-color: #f5f5f5;
+  width: 310px;
+  height: 32px;
+  border-radius: 5px;
+  margin-top: 30px;
+}
+
+.asad {
+  width: 115px;
+  height: 30px;
+  background-color: #a033ff;
+  border-radius: 5px;
+  position: absolute;
+  margin-left: 194px;
+  margin-top: -31px;
+}
+
+.asadh1 {
+  font-size: 16px;
+  color: #f5f5f5;
+  margin-top: 5px;
+  margin-left: 25px;
+}
+
+.footerdiv {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
+}
+
+.company {
+  font-size: 24px;
+  color: #fdfaff;
+  padding-top: 30px;
+}
+
+.refound li {
+  font-size: 16px;
+  color: #fdfaff;
+  padding-top: 17px;
+}
+
+.subscribe {
+  margin-left: -15px;
+}
+
+.final {
+  margin-top: 12px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+
+.fa-facebook {
+  margin-top: 10px;
+}
+
+.fa-instagram {
+  margin-left: 5px;
+}
+
+@media all and (max-width: 1024px) {
+  .location {
+    margin-top: 1%;
+  }
+
+  .jewelry {
+    margin-top: -2.4%;
+  }
+
+  .journey {
+    margin-top: -22%;
+  }
+
+  .discover {
+    margin-top: -18%;
+  }
+
+  .purple {
+    margin-top: -14%;
+  }
+
+  .radiant {
+    margin-left: -6.7%;
+  }
+
+  .esmerald {
+    margin-left: 0.5%;
+  }
+
+  .oval {
+    margin-left: -0.8%;
+  }
+
+  .brilliant {
+    margin-left: 2%;
+  }
+
+  .pink {
+    width: 60%;
+    margin-top: -40%;
+    left: -5%;
+  }
+}
+
+@media all and (max-width: 900px) {
+  .location {
+    padding-top: 1%;
+  }
+
+  .jewelry {
+    margin-top: -3.2%;
+  }
+
+  .journey {
+    margin-top: -24%;
+  }
+
+  .discover {
+    margin-top: -19%;
+  }
+
+  .purple {
+    margin-top: -14%;
+  }
+
+  .rings {
+    display: block;
+    margin-left: 8%;
+  }
+
+  .ringphoto1 {
+    margin-left: 10%;
+  }
+
+  .ringphoto2 {
+    margin-top: -38%;
+    margin-left: 50%;
+  }
+
+  .ringphoto3 {
+    margin-left: 10%;
+    margin-top: 10%;
+  }
+
+  .ringphoto4 {
+    margin-top: -38%;
+    margin-left: 50%;
+  }
+
+  .ringnames {
+    display: block;
+    position: absolute;
+  }
+
+  .radiant {
+    position: absolute;
+    margin-top: -360%;
+    margin-left: 65%;
+  }
+
+  .esmerald {
+    position: absolute;
+    margin-top: -360%;
+    margin-left: 350%;
+  }
+
+  .oval {
+    position: absolute;
+    margin-top: -22%;
+    margin-left: 64%;
+  }
+
+  .brilliant {
+    margin-top: -22%;
+    margin-left: 350%;
+  }
+
+  .wedding {
+    margin-top: 7%;
+  }
+
+  .hands {
+    margin-left: 10%;
+  }
+
+  .pink {
+    width: 70%;
+    height: 26%;
+    left: -30%;
+    margin-top: -20%;
+  }
+
+  .sellers {
+    margin-top: 25%;
+  }
+
+  .bestsellers {
+    display: block;
+  }
+
+  .bestseller1 {
+    margin-left: 14%;
+  }
+
+  .bestseller2 {
+    margin-top: -51%;
+    margin-left: 58%;
+  }
+
+  .bestseller3 {
+    margin-top: 3%;
+    margin-left: 14%;
+  }
+
+  .bestseller4 {
+    margin-top: -51%;
+    margin-left: 58%;
+  }
+
+  .footerdiv {
+    height: 500px;
+    display: block;
+  }
+
+  .subscribe {
+    margin-left: 25%;
+  }
+
+  .policy {
+    margin-left: 2%;
+    margin-top: 4%;
+  }
+
+  .policy2 {
+    margin-left: 43%;
+    margin-top: -27%;
+  }
+
+  .policy3 {
+    margin-left: 80%;
+    margin-top: -27%;
+  }
+}
+
+@media all and (max-width: 800px) {
+  .location {
+    margin-left: -0.6%;
+    margin-top: 6%;
+  }
+
+  .jewelry {
+    margin-top: -13%;
+    margin-right: 3%;
+  }
+
+  .login {
+    margin-top: 2%;
+  }
+
+  li {
+    font-size: 10px;
+  }
+
+  .sarchevi {
+    display: block;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 10%;
+    margin-left: -32%;
+  }
+
+  .nav {
+    display: block;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .journey {
+    font-size: 18px;
+    margin-left: 5%;
+  }
+
+  .discover {
+    font-size: 14px;
+    margin-left: 5%;
+  }
+
+  .purple {
+    margin-left: 5%;
+  }
+
+  .ringphoto1 {
+    margin-left: -8%;
+    margin-top: 5%;
+  }
+
+  .ringphoto2 {
+    margin-left: 48%;
+    margin-top: -62%;
+  }
+
+  .ringphoto3 {
+    margin-left: -8%;
+    margin-top: 5%;
+  }
+
+  .ringphoto4 {
+    margin-left: 48%;
+    margin-top: -62%;
+  }
+
+  .oval {
+    margin-top: -50%;
+  }
+
+  .brilliant {
+    margin-top: -60%;
+  }
+
+  .hands {
+    margin-left: -0.1%;
+  }
+
+  .pink {
+    width: 100%;
+    left: -45%;
+  }
+
+  .purple2 {
+    left: -2.5%;
+    top: -20%;
+  }
+
+  .sellers {
+    padding-top: 6%;
+  }
+
+  .bestseller1 {
+    margin-left: -2%;
+  }
+
+  .bestseller2 {
+    position: absolute;
+    margin-top: -82%;
+    left: -6%;
+  }
+
+  .bestseller2photo {
+    height: 260px;
+  }
+
+  .bestseller3 {
+    margin-left: -2%;
+  }
+
+  .bestseller4 {
+    position: absolute;
+    margin-top: -82%;
+    left: -6%;
+  }
+
+  .subscribe {
+    margin-left: 10%;
+  }
+
+  .policy2 {
+    margin-top: -42%;
+    margin-left: 40%;
+  }
+
+  .policy3 {
+    margin-left: 73%;
+    margin-top: -44%;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .location {
+    padding-top: 1%;
+  }
+
+  .jewelry {
+    margin-top: -3.2%;
+  }
+
+  .journey {
+    margin-top: -24%;
+  }
+
+  .discover {
+    margin-top: -19%;
+  }
+
+  .purple {
+    margin-top: -14%;
+  }
+
+  .rings {
+    display: block;
+    margin-left: 8%;
+  }
+
+  .ringphoto1 {
+    margin-left: 10%;
+  }
+
+  .ringphoto2 {
+    margin-top: -38%;
+    margin-left: 50%;
+  }
+
+  .ringphoto3 {
+    margin-left: 10%;
+    margin-top: 10%;
+  }
+
+  .ringphoto4 {
+    margin-top: -38%;
+    margin-left: 50%;
+  }
+
+  .ringnames {
+    display: block;
+    position: absolute;
+  }
+
+  .radiant {
+    position: absolute;
+    margin-top: -360%;
+    margin-left: 65%;
+  }
+
+  .esmerald {
+    position: absolute;
+    margin-top: -360%;
+    margin-left: 350%;
+  }
+
+  .oval {
+    position: absolute;
+    margin-top: -22%;
+    margin-left: 64%;
+  }
+
+  .brilliant {
+    margin-top: -22%;
+    margin-left: 350%;
+  }
+
+  .wedding {
+    margin-top: 7%;
+  }
+
+  .hands {
+    margin-left: 10%;
+  }
+
+  .pink {
+    width: 70%;
+    height: 26%;
+    left: -30%;
+    margin-top: -20%;
+  }
+
+  .sellers {
+    margin-top: 25%;
+  }
+
+  .bestsellers {
+    display: block;
+  }
+
+  .bestseller1 {
+    margin-left: 14%;
+  }
+
+  .bestseller2 {
+    margin-top: -51%;
+    margin-left: 58%;
+  }
+
+  .bestseller3 {
+    margin-top: 3%;
+    margin-left: 14%;
+  }
+
+  .bestseller4 {
+    margin-top: -51%;
+    margin-left: 58%;
+  }
+
+  .footerdiv {
+    height: 500px;
+    display: block;
+  }
+
+  .subscribe {
+    margin-left: 25%;
+  }
+
+  .policy {
+    margin-left: 2%;
+    margin-top: 4%;
+  }
+
+  .policy2 {
+    margin-left: 43%;
+    margin-top: -27%;
+  }
+
+  .policy3 {
+    margin-left: 80%;
+    margin-top: -27%;
+  }
+}
+
+@media all and (max-width: 700px) {
+  .location {
+    margin-left: -0.6%;
+    margin-top: 6%;
+  }
+
+  .jewelry {
+    margin-top: -13%;
+    margin-right: 3%;
+  }
+
+  .login {
+    margin-top: 2%;
+  }
+
+  li {
+    font-size: 10px;
+  }
+
+  .sarchevi {
+    display: block;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 10%;
+    margin-left: -32%;
+  }
+
+  .nav {
+    display: block;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .journey {
+    font-size: 18px;
+    margin-left: 5%;
+  }
+
+  .discover {
+    font-size: 14px;
+    margin-left: 5%;
+  }
+
+  .purple {
+    margin-left: 5%;
+  }
+
+  .ringphoto1 {
+    margin-left: -8%;
+    margin-top: 5%;
+  }
+
+  .ringphoto2 {
+    margin-left: 48%;
+    margin-top: -62%;
+  }
+
+  .ringphoto3 {
+    margin-left: -8%;
+    margin-top: 5%;
+  }
+
+  .ringphoto4 {
+    margin-left: 48%;
+    margin-top: -62%;
+  }
+
+  .oval {
+    margin-top: -50%;
+  }
+
+  .brilliant {
+    margin-top: -60%;
+  }
+
+  .hands {
+    margin-left: -0.1%;
+  }
+
+  .pink {
+    width: 100%;
+    left: -45%;
+  }
+
+  .purple2 {
+    left: -2.5%;
+    top: -20%;
+  }
+
+  .sellers {
+    padding-top: 6%;
+  }
+
+  .bestseller1 {
+    margin-left: -2%;
+  }
+
+  .bestseller2 {
+    position: absolute;
+    margin-top: -82%;
+    left: -6%;
+  }
+
+  .bestseller2photo {
+    height: 260px;
+  }
+
+  .bestseller3 {
+    margin-left: -2%;
+  }
+
+  .bestseller4 {
+    position: absolute;
+    margin-top: -82%;
+    left: -6%;
+  }
+
+  .subscribe {
+    margin-left: 10%;
+  }
+
+  .policy2 {
+    margin-top: -42%;
+    margin-left: 40%;
+  }
+
+  .policy3 {
+    margin-left: 73%;
+    margin-top: -44%;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .jewelry {
+    margin-left: -14%;
+    margin-top: -16%;
+  }
+
+  .search {
+    height: 100px;
+  }
+
+  .location {
+    margin-left: 16%;
+    margin-top: 6%;
+  }
+
+  .login {
+    margin-top: 12%;
+    margin-left: 18%;
+  }
+
+  .sarchevi {
+    display: block;
+    margin-top: 2%;
+    margin-left: 4%;
+  }
+
+  .poto {
+    margin-top: 3%;
+  }
+
+  .journey {
+    font-size: 12px;
+  }
+
+  .discover {
+    font-size: 10px;
+  }
+
+  .purple {
+    width: 100px;
+    height: 30px;
+  }
+
+  .collection {
+    font-size: 9px;
+    margin-left: 20%;
+  }
+
+  .shape {
+    padding-top: 10%;
+  }
+
+  .rings {
+    display: block;
+  }
+
+  .ringphoto1 {
+    margin-left: 7%;
+    margin-top: -3%;
+  }
+
+  .ringphoto2 {
+    margin-top: 10%;
+    width: 100%;
+    margin-left: 7%;
+  }
+
+  .ringphoto3 {
+    margin-left: 7%;
+    margin-top: 6%;
+  }
+
+  .ringphoto4 {
+    margin-top: 10%;
+    width: 100%;
+    margin-left: 7%;
+  }
+
+  .ringnames {
+    display: block;
+  }
+
+  .radiant {
+    margin-left: 17%;
+    margin-top: -920%;
+  }
+
+  .esmerald {
+    margin-top: -620%;
+    margin-left: 17%;
+  }
+
+  .oval {
+    margin-top: -330%;
+    margin-left: 17%;
+  }
+
+  .brilliant {
+    margin-top: -50%;
+    margin-left: 17%;
+  }
+
+  .about1 {
+    font-size: 18px;
+  }
+
+  .about2 {
+    font-size: 15px;
+    width: 300px;
+  }
+
+  .purple2 {
+    width: 100px;
+    height: 30px;
+    margin-left: 8%;
+  }
+
+  .bestsellers {
+    display: block;
+  }
+
+  .bestseller1 {
+    margin-left: 14%;
+    margin-top: 15%;
+  }
+
+  .bestseller2 {
+    margin-top: 10%;
+    margin-left: 20%;
+  }
+
+  .bestseller3 {
+    margin-left: 14%;
+    margin-top: 148%;
+  }
+
+  .bestseller4 {
+    margin-top: 10%;
+    margin-left: 20%;
+  }
+
+  .lastphotos {
+    margin-top: 10%;
+    display: -ms-grid;
+    display: grid;
+  }
+
+  .line {
+    margin-top: 150%;
+  }
+
+  .subscribe {
+    margin-left: -0.3%;
+  }
+
+  .footerp {
+    width: 100%;
+  }
+
+  .emailsearch {
+    width: 100%;
+  }
+
+  .asad {
+    margin-left: 62%;
+  }
+
+  .footerdiv {
+    height: 800px;
+  }
+
+  .policy {
+    margin-left: 33%;
+  }
+
+  .policy2 {
+    margin-top: 10%;
+    margin-left: 33%;
+  }
+
+  .policy3 {
+    margin-top: 10%;
+    margin-left: 33%;
+  }
+}
